@@ -1,0 +1,49 @@
+H:\213\Lab11\Lab11\bin\Debug\Lab11.exe
+H:\213\Lab11\Lab11\bin\Debug\Lab11.pdb
+H:\213\Lab11\Lab11\bin\Debug\Lab11.xml
+H:\213\Lab11\Lab11\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.MDIMain.resources
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.Resources.resources
+H:\213\Lab11\Lab11\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\213\Lab11\Lab11\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.exe
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.xml
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.pdb
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.ImageWindow.resources
+H:\213\Lab11\Lab11\obj\x86\Debug\Lab11.PropertiesForBitmap.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\bin\Debug\Lab11.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.PropertiesForBitmap.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.ImageWindow.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.MDIMain.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.Resources.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.ResizingBitmap.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\bin\Debug\Lab11.exe.manifest
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\bin\Debug\Lab11.application
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.exe.manifest
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11Copy\Lab11\Lab11\obj\x86\Debug\Lab11.application
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\bin\Debug\Lab11.exe.manifest
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\bin\Debug\Lab11.application
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\bin\Debug\Lab11.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.PropertiesForBitmap.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.ImageWindow.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.MDIMain.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.Resources.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.ResizingBitmap.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.exe.manifest
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab11\Lab11\obj\x86\Debug\Lab11.application
